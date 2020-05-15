@@ -1,0 +1,10 @@
+untuk tugasnya bisa dilakukan dengan membuat script analisa jupyter notebook 
+dengan memodifikasi untuk min_support, min_confidence, serta lenght nya
+serta berikan kesimpulan dari hasil modifikasi yang telah dibuat
+
+saya melakuakn modifikasi di 
+min_support, menjadi 0.30 
+min_confidence, menjadi 0.8
+serta lenght, menjadi 3
+
+dengan hasilnya ada beberapa hilang terutama tentang pasangan yang menajadi 1 pasang 3 itrm tetapi ada masalah ketika ingin menampikan item ke 3 yang tidak dapat ditampilakan dan terjadi error.
